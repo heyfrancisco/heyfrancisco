@@ -12,7 +12,7 @@
 
 - ✍️ Superuser of tool for thought such as **notion** and **logseq**.
 - ⚙️ I use daily `.html`, `.css`, `.js` and `.py`.
-- 🌱 Learning about **Product Management**, **React Native**.
+- 🌱 Learning about **Product Management** & **React Native**.
 - 💬 Ping me about **design**, **management**, **web development**, **UX/UI**.
 - 📫 Reach me: [`instagram.com/francisco.doo`](https://instagram.com/francisco) or mail me [`talk@heyfrancisco.com`](mailto:talk@heyfrancisco.com)
 - ⚡ Fun fact: I'm a rugby player for Técnico Rugby
