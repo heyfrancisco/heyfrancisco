@@ -6,7 +6,7 @@
 
 - 🕹️ IT @ University of Lisbon.
 - ⛩️ Minor in Statistics and Operations Research @ University of Lisbon.
-- 💾 Collaborating with [Birdseye Portugal](https://www.birdseyeportugal.com/).
+- 💾 Intern at [IBM](https://www.ibm.com/cloud).
 
 ##### BIO
 
