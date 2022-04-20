@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm [Francisco](https://heyfrancisco.com), a Devoloper from Lisbon, Portugal.
+#### I'm [Francisco](https://heyfrancisco.com), a Developer from Lisbon, Portugal.
 
 ##### NOW
 
