@@ -10,9 +10,7 @@
 
 ##### BIO
 
-- ✍️ Superuser of tool for thought.
-- ⚙️ I use daily `.html`, `.css`, `.js` and `.py`.
-- 🌱 Learning about **Sales** & **React JS**.
-- 💬 Ping me about **Cloud**, **Sales** & **Front-End Dev**.
+- 🌱 Learning about **Sales** & **Cloud**.
+- 💬 Ping me about **Cloud**, **Sales** & **React.js**.
 - 📫 Reach me: [`instagram.com/francisco.doo`](https://instagram.com/francisco) or mail me [`talk@heyfrancisco.com`](mailto:talk@heyfrancisco.com)
 - ⚡ Fun fact: I'm a rugby player for Técnico Rugby 
